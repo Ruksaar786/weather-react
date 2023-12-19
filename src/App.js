@@ -1,10 +1,9 @@
 import "./App.css";
-
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>hello </h1>
+        <h1>hello from react</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
